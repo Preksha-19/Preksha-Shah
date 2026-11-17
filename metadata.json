@@ -1,0 +1,6 @@
+{
+  "name": "MAISON ÉDIT — Luxury Multi-Brand Makeup Catalogue",
+  "description": "A minimal editorial multi-brand luxury makeup catalogue featuring iconic cosmetics from CHANEL, KIKO MILANO, Charlotte Tilbury, Fenty Beauty, Kylie Cosmetics, Dior Beauty, and TOM FORD Beauty in INR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

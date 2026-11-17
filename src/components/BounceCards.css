@@ -1,0 +1,68 @@
+.bounce-cards {
+  position: relative;
+  touch-action: pan-y;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.bounce-cards__card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: var(--bounce-cards-size);
+  aspect-ratio: 4 / 5;
+  overflow: hidden;
+  border: var(--bounce-cards-border) solid var(--bounce-cards-border-color);
+  border-radius: var(--bounce-cards-radius);
+  background: #E6EFFA;
+  padding: 5px;
+  box-shadow: var(--bounce-cards-shadow);
+  transform: translate(-50%, -50%) scale(0);
+  transition: box-shadow 0.35s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.3s ease;
+  will-change: transform;
+}
+
+.bounce-cards__card[data-active] {
+  box-shadow: var(--bounce-cards-shadow-active);
+  border-color: #60A5FA;
+}
+
+.bounce-cards__card--clickable {
+  cursor: pointer;
+}
+
+.bounce-cards__card--clickable:focus-visible {
+  outline: 2px solid #092147;
+  outline-offset: 4px;
+}
+
+.bounce-cards__inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #C7DAEE;
+}
+
+.bounce-cards__card img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  pointer-events: none;
+  user-select: none;
+}
+
+.bounce-cards__caption {
+  position: absolute;
+  inset: auto 0 0 0;
+  padding: 28px 12px 10px;
+  background: linear-gradient(
+    to top,
+    rgba(7, 25, 54, 0.9) 0%,
+    rgba(7, 25, 54, 0.56) 55%,
+    transparent 100%
+  );
+  color: #D7E5F5;
+  pointer-events: none;
+  text-align: left;
+}

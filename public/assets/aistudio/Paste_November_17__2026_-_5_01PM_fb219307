@@ -1,0 +1,1719 @@
+PRODUCT REQUIREMENTS DOCUMENT (PRD)
+LUXURY MULTI-BRAND MAKEUP CATALOGUE WEBSITE
+
+Project Name: Luxury Beauty Catalogue
+Document Type: Product Requirements Document
+Version: 1.0
+Date: November 2026
+Primary Market: India
+Default Currency: INR (₹)
+Product Type: Multi-brand Makeup Catalogue and Beauty Discovery Platform
+
+1. PROJECT OVERVIEW
+1.1 Introduction
+
+The objective of this project is to design and develop a premium, visually sophisticated, multi-brand makeup catalogue website that allows users to discover, explore, browse and compare makeup products from leading international beauty brands.
+
+The website should combine the elegance of luxury beauty brands with the functionality of a modern cosmetics catalogue.
+
+The platform will be inspired by the design languages, product presentation techniques, navigation systems, visual storytelling and product categorisation of the following seven websites:
+
+CHANEL — https://www.chanel.com/in/
+KIKO MILANO — https://us.kikocosmetics.com/collections/face-makeup
+Charlotte Tilbury — https://www.charlottetilbury.com/us/products/makeup
+Fenty Beauty — https://fentybeauty.com/en-in
+Kylie Cosmetics — https://kyliecosmetics.com/en-in
+Dior Beauty — https://www.dior.com/en_hk/beauty
+TOM FORD Beauty — https://www.tomfordbeauty.com/collections/makeup
+
+The website must not directly copy any reference website. Instead, it should combine the strongest design principles of all seven brands into a distinctive and consistent visual identity.
+
+1.2 Product Vision
+
+Create a digital luxury beauty destination that feels like a combination of:
+
+A luxury beauty magazine.
+A premium makeup catalogue.
+A multi-brand cosmetics discovery platform.
+An editorial beauty experience.
+A modern product research and comparison platform.
+
+The website should allow customers to discover products by brand, category, shade, colour, finish and price.
+
+The main objective is to make makeup discovery visually engaging, convenient, organised and enjoyable.
+
+1.3 Core Product Philosophy
+
+The website must follow three fundamental principles:
+
+Luxury: Every page should look premium, sophisticated and professionally designed.
+
+Discovery: Users should be able to explore makeup products and brands without difficulty.
+
+Trust: All displayed product names, images, descriptions, shades and prices should be accurate and verifiable.
+
+2. REFERENCE WEBSITE ANALYSIS
+2.1 CHANEL
+
+Reference: https://www.chanel.com/in/
+
+Design inspiration:
+
+Timeless luxury.
+Minimalist navigation.
+Elegant typography.
+Large editorial banners.
+Generous whitespace.
+High-quality product photography.
+Neutral colour palette.
+Premium collection presentation.
+
+Implementation: Use CHANEL-inspired minimalism to establish the website's overall luxury atmosphere.
+
+2.2 KIKO MILANO
+
+Reference: https://us.kikocosmetics.com/collections/face-makeup
+
+Design inspiration:
+
+Product-focused layouts.
+Clear category organisation.
+Easy product discovery.
+Promotional banners.
+Structured product collections.
+Accessible browsing.
+
+Implementation: Use this approach for the makeup catalogue, category pages, filters and product grids.
+
+2.3 CHARLOTTE TILBURY
+
+Reference: https://www.charlottetilbury.com/us/products/makeup
+
+Design inspiration:
+
+Glamorous beauty imagery.
+Premium product presentation.
+Detailed product categorisation.
+Collection-based discovery.
+New arrivals and bestsellers.
+Shade selection.
+
+Implementation: Use glamorous photography, curated collections and detailed product cards.
+
+2.4 FENTY BEAUTY
+
+Reference: https://fentybeauty.com/en-in
+
+Design inspiration:
+
+Inclusive beauty.
+Diverse skin tones.
+Comprehensive shade representation.
+Modern branding.
+Product bundles.
+Contemporary product discovery.
+
+Implementation: Ensure that shade-based products display accurate colour options and representative imagery.
+
+2.5 KYLIE COSMETICS
+
+Reference: https://kyliecosmetics.com/en-in
+
+Design inspiration:
+
+Clean product layouts.
+Modern visual styling.
+Trend-focused collections.
+Promotional campaigns.
+Interactive product discovery.
+Virtual try-on inspiration.
+
+Implementation: Introduce modern collection pages, trending products and future virtual shade discovery.
+
+2.6 DIOR BEAUTY
+
+Reference: https://www.dior.com/en_hk/beauty
+
+Design inspiration:
+
+High-fashion editorial layouts.
+Elegant typography.
+Luxury product imagery.
+Sophisticated campaign presentation.
+Premium product storytelling.
+
+Implementation: Create editorial campaign sections and luxury product landing pages.
+
+2.7 TOM FORD BEAUTY
+
+Reference: https://www.tomfordbeauty.com/collections/makeup
+
+Design inspiration:
+
+Dark luxury.
+Black and gold accents.
+Dramatic contrast.
+Sophisticated product photography.
+Exclusive product collections.
+Premium visual presentation.
+
+Implementation: Use selected dark editorial sections and premium visual accents.
+
+2.8 Combined Design Direction
+
+The final design must combine:
+
+CHANEL: Minimalism.
+KIKO: Product categorisation.
+Charlotte Tilbury: Glamour.
+Fenty Beauty: Inclusivity.
+Kylie Cosmetics: Modern interaction.
+Dior: Editorial luxury.
+TOM FORD: Sophistication.
+
+The website must maintain one unified design system rather than looking like multiple unrelated brand websites.
+
+3. PROJECT GOALS AND OBJECTIVES
+3.1 Primary Goals
+Build a premium multi-brand makeup catalogue.
+Display products from all seven reference brands.
+Organise products into clear makeup categories.
+Provide detailed product information.
+Allow users to discover products through search and filters.
+Support product shade discovery.
+Create a visually rich and responsive experience.
+Provide a dedicated brand directory.
+Implement an administrative product management system.
+Establish a scalable foundation for future e-commerce functionality.
+3.2 Business Objectives
+Increase product discovery.
+Improve user engagement.
+Encourage exploration across multiple brands.
+Increase product detail page visits.
+Encourage wishlist usage.
+Generate traffic to official product purchase pages.
+Build a recognisable independent beauty platform.
+3.3 Success Metrics
+
+Initial proposed performance targets:
+
+Mobile responsiveness across all core pages.
+Product page loading performance with an LCP target below 2.5 seconds under suitable conditions.
+Search success rate above 80%.
+Product discovery completion above 70%.
+Product detail engagement above 50%.
+Wishlist usage above 15% of active users.
+
+These targets should be evaluated using analytics after launch.
+
+4. TARGET AUDIENCE
+4.1 Primary Audience
+Makeup enthusiasts.
+Luxury beauty shoppers.
+Customers interested in international makeup brands.
+Users comparing makeup products and shades.
+Customers looking for new beauty collections.
+People researching products before purchasing.
+4.2 Secondary Audience
+Professional makeup artists.
+Beauty influencers.
+Content creators.
+Makeup beginners.
+Gift shoppers.
+Beauty researchers.
+4.3 User Personas
+
+Persona 1: Beauty Explorer
+
+Age range: 18–25.
+
+Requirements:
+
+Trending makeup.
+Affordable and premium brands.
+New arrivals.
+Product discovery.
+Easy category navigation.
+
+Persona 2: Luxury Shopper
+
+Age range: 25–40.
+
+Requirements:
+
+Premium products.
+Detailed product descriptions.
+Verified pricing.
+Shade information.
+Luxury brand discovery.
+
+Persona 3: Professional Makeup Artist
+
+Age range: 22–40.
+
+Requirements:
+
+Product specifications.
+Finish and coverage details.
+Shade options.
+Ingredient information.
+Product comparison.
+5. WEBSITE INFORMATION ARCHITECTURE
+5.1 Main Navigation
+
+The main navigation should include:
+
+Home
+Shop All
+Brands
+Face
+Eyes
+Lips
+Cheeks
+New Arrivals
+Bestsellers
+Collections
+
+Additional header controls:
+
+Search.
+Wishlist.
+User account.
+Shopping bag, only if direct e-commerce functionality is implemented.
+5.2 Website Sitemap
+
+HOME
+
+SHOP
+
+Shop All
+Face
+Eyes
+Lips
+Cheeks
+Makeup Tools
+Makeup Sets
+
+BRANDS
+
+CHANEL
+KIKO MILANO
+Charlotte Tilbury
+Fenty Beauty
+Kylie Cosmetics
+Dior Beauty
+TOM FORD Beauty
+
+COLLECTIONS
+
+Nude Collection
+Red Lip Collection
+Everyday Essentials
+Party Makeup
+Bridal Beauty
+Luxury Makeup Essentials
+Seasonal Collections
+
+DISCOVER
+
+New Arrivals
+Bestsellers
+Trending Products
+Editorial Beauty Stories
+
+PRODUCT
+
+Product Details
+Product Gallery
+Shade Selection
+Product Description
+Ingredients
+Similar Products
+
+USER
+
+Wishlist
+Account
+Recently Viewed
+
+OTHER
+
+About
+Contact
+Privacy Policy
+Terms and Conditions
+
+ADMIN
+
+Dashboard
+Product Management
+Brand Management
+Category Management
+Collection Management
+Homepage Management
+User Management
+Analytics
+6. HOMEPAGE REQUIREMENTS
+
+Priority: P0 — Must Have.
+
+The homepage is the most important visual and functional entry point.
+
+It must communicate the website's premium beauty identity immediately.
+
+6.1 Announcement Bar
+
+Display important announcements such as:
+
+New collection announcements.
+Seasonal campaigns.
+Promotional messages.
+Shipping announcements, if applicable.
+
+The announcement bar should be subtle and should not overwhelm the design.
+
+6.2 Header
+
+Requirements:
+
+Independent website logo.
+Minimal navigation.
+Search functionality.
+Wishlist icon.
+Account icon.
+Shopping bag icon if applicable.
+Sticky header behaviour.
+Responsive mobile navigation.
+6.3 Hero Banner
+
+The homepage must contain a large editorial beauty campaign.
+
+Requirements:
+
+Full-width campaign photography.
+High-quality beauty imagery.
+Elegant headline.
+Short descriptive subtitle.
+Primary CTA.
+Optional secondary CTA.
+
+Suggested headline:
+
+THE ART OF BEAUTY
+
+"Discover a world of beauty where every shade tells a story."
+
+Primary CTA: EXPLORE THE COLLECTION.
+
+The hero should be image-led, with minimal text and generous whitespace.
+
+6.4 Shop by Category
+
+Display four major category cards:
+
+FACE:
+
+Foundation.
+Primer.
+Concealer.
+Powder.
+Setting Spray.
+Skin Tint.
+
+EYES:
+
+Eyeshadow.
+Mascara.
+Eyeliner.
+Eyebrow Products.
+Eye Palettes.
+
+LIPS:
+
+Lipstick.
+Lip Gloss.
+Lip Liner.
+Lip Oil.
+Lip Balm.
+
+CHEEKS:
+
+Blush.
+Bronzer.
+Contour.
+Highlighter.
+
+Each category card must have:
+
+Category image.
+Category title.
+Short description.
+Explore CTA.
+6.5 Featured Brands
+
+Display the seven reference brands using their approved brand assets or appropriately styled brand names.
+
+Requirements:
+
+Brand logo or wordmark.
+Brand name.
+Optional brand campaign image.
+Clickable brand card.
+Dedicated brand landing page.
+6.6 New Arrivals
+
+Display recently added products.
+
+Each card should include:
+
+Product image.
+Brand name.
+Product name.
+Price.
+Available shade count.
+New arrival label where appropriate.
+Wishlist action.
+View product link.
+6.7 Bestsellers
+
+Display verified popular products or clearly labelled editorial selections.
+
+Requirements:
+
+Product cards.
+Product images.
+Brand names.
+Product prices.
+Product descriptions.
+Product detail links.
+
+Do not label products as bestsellers unless there is reliable popularity or sales information.
+
+6.8 Featured Collections
+
+Create visually rich collection sections:
+
+The Nude Edit.
+The Red Lip Collection.
+The Glow Collection.
+Everyday Essentials.
+Evening Glamour.
+Bridal Beauty.
+Luxury Makeup Essentials.
+
+Each collection should have:
+
+Banner image.
+Title.
+Description.
+Selected products.
+Explore CTA.
+6.9 Editorial Beauty Section
+
+Create a magazine-style section with:
+
+Large editorial photography.
+Beauty stories.
+Product recommendations.
+Makeup inspiration.
+Collection highlights.
+6.10 Footer
+
+Include:
+
+About the platform.
+Contact information.
+Brand directory.
+Product categories.
+Privacy policy.
+Terms and conditions.
+Social media links.
+Newsletter subscription.
+7. MAKEUP CATALOGUE REQUIREMENTS
+
+Priority: P0 — Must Have.
+
+The catalogue is the primary functional section of the website.
+
+7.1 Catalogue Layout
+
+Requirements:
+
+Page heading: SHOP ALL MAKEUP.
+Short introductory description.
+Product count.
+Category navigation.
+Desktop filter sidebar.
+Mobile filter drawer.
+Sorting dropdown.
+Responsive product grid.
+Pagination or load-more functionality.
+7.2 Product Grid
+
+Desktop:
+
+Four to five product columns depending on available width.
+
+Mobile:
+
+Two product columns.
+
+Product image ratio:
+
+4:5 portrait.
+
+Product cards must contain:
+
+Product image.
+Brand name.
+Product name.
+Product type.
+Price.
+Currency.
+Available shades.
+Wishlist icon.
+Relevant product badges.
+Product details link.
+
+Optional functionality:
+
+Quick view.
+Image hover effect.
+Shade preview.
+Product comparison.
+7.3 Product Categories
+
+FACE:
+
+Foundation.
+Primer.
+Concealer.
+Powder.
+Setting Powder.
+Setting Spray.
+Skin Tint.
+
+CHEEKS:
+
+Blush.
+Bronzer.
+Contour.
+Highlighter.
+
+EYES:
+
+Eyeshadow.
+Eyeshadow Palette.
+Mascara.
+Eyeliner.
+Eyebrow Pencil.
+Brow Gel.
+
+LIPS:
+
+Lipstick.
+Liquid Lipstick.
+Lip Gloss.
+Lip Liner.
+Lip Oil.
+Lip Balm.
+
+TOOLS:
+
+Makeup Brushes.
+Beauty Sponges.
+Applicators.
+
+SETS:
+
+Makeup Kits.
+Gift Sets.
+Limited Editions.
+8. BRAND DIRECTORY
+
+Priority: P0 — Must Have.
+
+Each brand must have a dedicated landing page.
+
+The initial brand directory contains:
+
+CHANEL.
+KIKO MILANO.
+Charlotte Tilbury.
+Fenty Beauty.
+Kylie Cosmetics.
+Dior Beauty.
+TOM FORD Beauty.
+8.1 Brand Page Requirements
+
+Each brand page must contain:
+
+Brand name.
+Brand logo or wordmark.
+Brand description.
+Brand campaign image.
+Brand product categories.
+Featured products.
+New arrivals.
+Complete brand catalogue.
+Brand-specific filters.
+8.2 Brand Navigation
+
+Users should be able to:
+
+Open the Brands section.
+View all brands.
+Select a brand.
+View the brand introduction.
+Explore brand-specific categories.
+Browse brand products.
+Open individual product pages.
+9. PRODUCT DETAIL PAGE
+
+Priority: P0 — Must Have.
+
+Every product must have a dedicated product detail page.
+
+9.1 Product Image Gallery
+
+Include:
+
+Main product image.
+Additional product images.
+Packaging images.
+Product close-ups.
+Texture images.
+Shade swatches.
+Model application images, where available.
+
+Features:
+
+Image thumbnails.
+Image zoom.
+Main image switching.
+Responsive gallery.
+9.2 Product Information
+
+Display:
+
+Brand name.
+Product name.
+Product category.
+Price.
+Currency.
+Product description.
+Product finish.
+Formula type.
+Coverage level, where applicable.
+Skin type suitability, where supported.
+Product size.
+Ingredients, where available.
+9.3 Shade Selection
+
+For products with multiple shades:
+
+Display available shades.
+Show colour swatches.
+Display shade names.
+Display shade codes.
+Show shade descriptions.
+Indicate unavailable shades.
+Update the selected shade and image where product data supports it.
+
+Shade colours must represent verified product information.
+
+9.4 Purchase Actions
+
+As the initial platform is catalogue-first, support:
+
+Visit Official Website.
+View Retailer.
+Save to Wishlist.
+Compare Product.
+View Similar Products.
+
+Direct shopping cart and checkout can be introduced in a later phase.
+
+9.5 Additional Information
+
+Include:
+
+How to use.
+Ingredients.
+Product specifications.
+Product size.
+Product claims.
+Delivery information, where applicable.
+Related products.
+Similar products.
+Other products from the same brand.
+10. SEARCH FUNCTIONALITY
+
+Priority: P0 — Must Have.
+
+Search must allow users to find products through:
+
+Product name.
+Brand name.
+Category.
+Product type.
+Shade name.
+Colour.
+Finish.
+
+Example queries:
+
+Nude Lipstick.
+Dior Foundation.
+Pink Blush.
+Matte Lipstick.
+Fenty Concealer.
+Waterproof Mascara.
+
+Search functionality:
+
+User opens search.
+Search interface appears.
+User enters a query.
+Matching products appear.
+Matching brands and categories are suggested.
+User selects a result.
+Relevant page opens.
+
+Additional requirements:
+
+Search suggestions.
+Recently searched terms.
+Empty search state.
+No-results suggestions.
+Clear search control.
+11. FILTERING AND SORTING
+
+Priority: P0 — Must Have.
+
+11.1 Filters
+
+BRAND:
+
+CHANEL.
+KIKO MILANO.
+Charlotte Tilbury.
+Fenty Beauty.
+Kylie Cosmetics.
+Dior Beauty.
+TOM FORD.
+
+CATEGORY:
+
+Face.
+Eyes.
+Lips.
+Cheeks.
+Tools.
+Sets.
+
+PRICE:
+
+Minimum price.
+Maximum price.
+Adjustable range.
+
+COLOUR:
+
+Red.
+Nude.
+Pink.
+Brown.
+Berry.
+Coral.
+Plum.
+
+FINISH:
+
+Matte.
+Satin.
+Glossy.
+Shimmer.
+Natural.
+
+COVERAGE:
+
+Light.
+Medium.
+Full.
+
+SKIN TYPE:
+
+Normal.
+Dry.
+Oily.
+Combination.
+
+Only show applicable filters for the selected product category.
+
+AVAILABILITY:
+
+Available.
+Unavailable.
+Unknown.
+11.2 Sorting
+
+Provide:
+
+Featured.
+Newest First.
+Price: Low to High.
+Price: High to Low.
+Alphabetical.
+Most Popular, when verified data exists.
+
+Users must be able to clear individual filters or reset all filters.
+
+12. WISHLIST
+
+Priority: P1 — Should Have.
+
+Users should be able to:
+
+Add products to wishlist.
+Remove products.
+View saved products.
+Access wishlist from navigation.
+Retain wishlist after login.
+Use a local guest wishlist where supported.
+
+Each wishlist item should display:
+
+Product image.
+Brand.
+Product name.
+Price.
+Selected shade, if applicable.
+Product detail link.
+
+Include a suitable empty wishlist state.
+
+13. PRODUCT COMPARISON
+
+Priority: P1 — Should Have.
+
+Allow users to compare selected makeup products.
+
+Comparison attributes:
+
+Brand.
+Price.
+Product type.
+Finish.
+Coverage.
+Shade availability.
+Product size.
+Ingredients or product claims, where relevant.
+
+Only compare verified available product information.
+
+14. ADVANCED SHADE DISCOVERY
+
+Priority: P2 — Future Feature.
+
+Introduce an optional shade finder inspired by inclusive beauty platforms.
+
+Potential functionality:
+
+Skin-tone questionnaire.
+Undertone selection.
+Shade discovery.
+Foundation recommendations.
+Concealer recommendations.
+Shade comparisons.
+Camera-based virtual try-on.
+
+Camera-based features must require explicit consent and appropriate privacy protections.
+
+This functionality should not be required for the initial launch.
+
+15. VISUAL DESIGN SYSTEM
+15.1 Overall Aesthetic
+
+The website must follow a modern editorial luxury aesthetic.
+
+The design should feel like a luxury beauty magazine combined with a professional makeup catalogue.
+
+Visual priorities:
+
+Elegant.
+Minimal.
+Editorial.
+Premium.
+Feminine without being overly decorative.
+Image-focused.
+Easy to navigate.
+Consistent across all pages.
+
+Avoid:
+
+Crowded product grids.
+Excessive animations.
+Too many bright colours.
+Overuse of decorative elements.
+Generic marketplace styling.
+Inconsistent typography.
+Excessive promotional badges.
+15.2 Colour Palette
+
+Primary colours:
+
+IVORY: #F8F5F0
+
+CHAMPAGNE: #E8DED1
+
+TAUPE: #B99B82
+
+DUSTY ROSE: #A97978
+
+SOFT BLACK: #24211F
+
+WHITE: #FFFFFF
+
+Usage:
+
+Ivory for primary page backgrounds.
+Champagne for subtle background sections.
+Taupe for secondary elements.
+Dusty rose for beauty accents.
+Soft black for headings and primary text.
+White for product cards and content surfaces.
+
+The design should predominantly use neutral colours.
+
+15.3 Typography
+
+Recommended font combination:
+
+Headings:
+
+Cormorant Garamond or Playfair Display.
+
+Body:
+
+Inter or Manrope.
+
+Navigation:
+
+Inter.
+
+Editorial headlines:
+
+Cormorant Garamond.
+
+Suggested sizing:
+
+Hero heading: 52–72 px.
+Main page heading: 36–44 px.
+Section heading: 28–36 px.
+Product title: 16–20 px.
+Body: 14–16 px.
+Navigation: 12–14 px.
+Metadata: 11–13 px.
+15.4 Photography Requirements
+
+Product photography:
+
+High-resolution product images.
+Consistent product dimensions.
+Neutral backgrounds.
+Packaging close-ups.
+Texture photographs.
+Accurate shade representation.
+
+Editorial photography:
+
+Professional beauty campaigns.
+Diverse models.
+Makeup application photography.
+Close-up skin and makeup textures.
+Premium product arrangements.
+
+All images must accurately represent the product being displayed.
+
+Use properly licensed or authorised imagery.
+
+15.5 Layout Requirements
+
+Desktop:
+
+Main content width: 1200–1440 px.
+Page side padding: 48–72 px.
+Product grid: 4–5 columns.
+Section spacing: 64–96 px.
+
+Mobile:
+
+Full-width layout.
+Page side padding: 16 px.
+Product grid: 2 columns.
+Section spacing: 32–48 px.
+
+Product image ratio: 4:5.
+
+15.6 Reusable Components
+
+Create reusable components for:
+
+Header.
+Footer.
+Announcement bar.
+Hero banner.
+Product card.
+Product grid.
+Category card.
+Brand card.
+Collection banner.
+Search overlay.
+Filter sidebar.
+Mobile filter drawer.
+Sort dropdown.
+Product image gallery.
+Shade selector.
+Wishlist button.
+Product information panel.
+Breadcrumbs.
+Pagination.
+Empty states.
+16. USER EXPERIENCE REQUIREMENTS
+16.1 Main Customer Journey
+User opens homepage.
+User discovers a featured category, brand or collection.
+User opens the relevant product catalogue.
+User browses and filters products.
+User opens a product detail page.
+User views product images and descriptions.
+User selects an available shade if applicable.
+User saves the product or visits the official retailer.
+16.2 Brand Discovery Journey
+User opens Brands.
+User views the brand directory.
+User selects a brand.
+User views the brand introduction.
+User explores brand categories.
+User opens a product.
+16.3 Mobile Experience
+
+Mobile must be treated as a primary platform.
+
+Requirements:
+
+Responsive navigation.
+Collapsible menu.
+Two-column product grid.
+Search accessibility.
+Filter drawer.
+Touch-friendly controls.
+Swipeable product gallery.
+Accessible shade selectors.
+Responsive banners.
+No horizontal overflow.
+Readable typography.
+Optimised images.
+
+All essential catalogue functionality must work on mobile.
+
+17. PRODUCT DATA REQUIREMENTS
+
+Every product must contain structured data.
+
+17.1 Product Database Fields
+Product ID.
+Brand ID.
+Product name.
+Product slug.
+Category.
+Subcategory.
+Product description.
+Price.
+Currency.
+Main image.
+Gallery images.
+Available shades.
+Product finish.
+Formula type.
+Coverage.
+Skin type suitability.
+Product size.
+Ingredients.
+Availability.
+Purchase URL.
+Created date.
+Updated date.
+17.2 Brand Database Fields
+Brand ID.
+Brand name.
+Brand logo.
+Brand description.
+Brand banner.
+Official website.
+Country of origin, if verified.
+Product categories.
+Active status.
+17.3 Shade Database Fields
+Shade ID.
+Product ID.
+Shade name.
+Shade code.
+Shade colour.
+Undertone, if verified.
+Shade image.
+Availability.
+17.4 Product Data Accuracy
+Use official product names.
+Use appropriate product images.
+Verify product prices.
+Display the correct currency.
+Do not invent shades.
+Do not invent ingredients.
+Do not make unsupported product claims.
+Verify purchase links.
+Track data update dates.
+Mark discontinued products appropriately.
+
+The initial platform should use India as its primary market with INR as its default currency.
+
+Products from other regional markets must clearly identify their applicable region and currency.
+
+18. ADMIN PANEL
+
+Priority: P0 — Must Have.
+
+A dedicated admin dashboard must be developed to manage the catalogue.
+
+18.1 Dashboard Overview
+
+Display:
+
+Total products.
+Total brands.
+Total categories.
+Active products.
+Inactive products.
+Recently added products.
+Recently updated products.
+Wishlist activity, where available.
+18.2 Product Management
+
+Admin users must be able to:
+
+Add products.
+Edit products.
+Delete or archive products.
+Upload product images.
+Add product descriptions.
+Add product prices.
+Add product shades.
+Assign categories.
+Assign brands.
+Add external purchase links.
+Update availability.
+Preview product pages.
+18.3 Brand Management
+
+Admin users must be able to:
+
+Add brands.
+Edit brand details.
+Upload brand logos.
+Upload brand banners.
+Add brand descriptions.
+Assign products.
+Activate or deactivate brands.
+18.4 Category Management
+
+Admin users must be able to:
+
+Create categories.
+Edit categories.
+Delete or archive categories.
+Create subcategories.
+Assign products to categories.
+Reorder category displays.
+18.5 Collection Management
+
+Admin users must be able to:
+
+Create collections.
+Edit collections.
+Add collection images.
+Add descriptions.
+Select products.
+Publish or unpublish collections.
+18.6 Homepage Management
+
+Admin users must be able to update:
+
+Hero images.
+Hero text.
+Campaign banners.
+Featured brands.
+New arrivals.
+Featured products.
+Editorial content.
+Collection sections.
+Announcement messages.
+18.7 Admin Roles
+
+SUPER ADMIN:
+
+Full access.
+
+PRODUCT MANAGER:
+
+Product and brand management.
+
+CONTENT MANAGER:
+
+Homepage, banners and collections.
+
+VIEWER:
+
+Read-only access.
+19. TECHNICAL ARCHITECTURE
+19.1 Recommended Technology Stack
+
+Frontend:
+
+Next.js.
+React.
+TypeScript.
+Tailwind CSS.
+
+Backend:
+
+Next.js API routes or a dedicated backend service.
+
+Database:
+
+PostgreSQL.
+Supabase.
+
+Authentication:
+
+Supabase Auth or an equivalent secure authentication solution.
+
+Image Storage:
+
+Cloudinary or Supabase Storage.
+
+Hosting:
+
+Vercel or equivalent hosting infrastructure.
+
+Analytics:
+
+Google Analytics.
+Google Search Console.
+
+These are recommendations and may be adjusted based on the development team's requirements.
+
+19.2 Frontend Requirements
+Component-based architecture.
+Reusable components.
+Responsive design.
+SEO-friendly page structure.
+Dynamic product listings.
+Search functionality.
+Product filters.
+Sorting.
+Wishlist.
+Image optimisation.
+Accessible controls.
+19.3 Backend Requirements
+
+Provide APIs for:
+
+Products.
+Brands.
+Categories.
+Collections.
+Search.
+Wishlist.
+Admin authentication.
+Product images.
+Product updates.
+19.4 Database Tables
+
+Recommended tables:
+
+users.
+admin_users.
+brands.
+categories.
+products.
+product_images.
+product_shades.
+collections.
+collection_products.
+wishlist_items.
+product_update_logs.
+
+The database must maintain appropriate relationships and data integrity.
+
+19.5 URL Structure
+
+/
+
+/shop
+/shop/face
+/shop/eyes
+/shop/lips
+/shop/cheeks
+/brands
+/brands/chanel
+/brands/dior
+/brands/fenty-beauty
+/brands/kiko-milano
+/brands/charlotte-tilbury
+/brands/kylie-cosmetics
+/brands/tom-ford
+/product/[slug]
+/collections
+/collections/[slug]
+/new-arrivals
+/bestsellers
+/wishlist
+/about
+/contact
+/admin
+19.6 Security
+
+Requirements:
+
+HTTPS.
+Secure authentication.
+Role-based permissions.
+Input validation.
+Secure API endpoints.
+Database access controls.
+Secure image uploads.
+Protection against common web vulnerabilities.
+Regular backups.
+Privacy-conscious customer data handling.
+19.7 SEO
+
+Every product and brand page should support:
+
+Unique page title.
+Meta description.
+SEO-friendly URL.
+Image alt text.
+Structured data where appropriate.
+Canonical URLs.
+Open Graph metadata.
+XML sitemap.
+Search engine indexing controls.
+20. NON-FUNCTIONAL REQUIREMENTS
+
+PERFORMANCE:
+
+Optimised image delivery.
+Lazy loading.
+Efficient page rendering.
+Target LCP below 2.5 seconds under suitable conditions.
+
+RESPONSIVENESS:
+
+Mobile.
+Tablet.
+Desktop.
+
+ACCESSIBILITY:
+
+Target WCAG 2.2 AA.
+Keyboard accessibility.
+Appropriate colour contrast.
+Image alt text.
+Accessible forms.
+
+SECURITY:
+
+Secure admin access.
+HTTPS.
+Data validation.
+Role-based permissions.
+
+SCALABILITY:
+
+Support additional brands.
+Support additional products.
+Support new categories.
+Support additional markets.
+
+MAINTAINABILITY:
+
+Reusable components.
+Structured database.
+Documented APIs.
+Consistent design system.
+
+COMPATIBILITY:
+
+Latest major versions of Chrome.
+Safari.
+Firefox.
+Edge.
+21. THIRD-PARTY INTEGRATIONS
+
+Potential integrations:
+
+Google Analytics — Website analytics.
+Google Search Console — SEO monitoring.
+Cloudinary — Product image management.
+Email service — Newsletter and notifications.
+Razorpay — Future payment processing.
+Official retailer URLs — External purchases.
+Virtual try-on provider — Future shade discovery.
+
+Direct payment functionality is not required for the initial catalogue release.
+
+22. PROJECT SCOPE AND DEVELOPMENT PHASES
+PHASE 1: MVP — INITIAL LAUNCH
+
+Priority: Must Have.
+
+Features:
+
+Homepage.
+Navigation.
+Seven-brand directory.
+Brand landing pages.
+Product catalogue.
+Product categories.
+Product detail pages.
+Product image gallery.
+Shade information.
+Search.
+Filtering.
+Sorting.
+External purchase links.
+Admin dashboard.
+Product management.
+Brand management.
+Responsive design.
+SEO fundamentals.
+PHASE 2: ENHANCED DISCOVERY
+
+Priority: Should Have.
+
+Features:
+
+User accounts.
+Wishlist.
+Product comparison.
+Recently viewed products.
+Newsletter.
+Editorial articles.
+Personalised recommendations.
+Advanced collections.
+PHASE 3: ADVANCED BEAUTY PLATFORM
+
+Priority: Future Scope.
+
+Features:
+
+Virtual try-on.
+AI shade recommendations.
+Skin-tone matching.
+Direct shopping cart.
+Checkout.
+Payment integration.
+Order management.
+Product reviews.
+Loyalty programme.
+Personalised beauty profiles.
+
+The initial release should focus on building an excellent catalogue rather than attempting to implement every advanced feature.
+
+23. ACCEPTANCE CRITERIA
+
+The website is ready for launch when:
+
+AC-01: Homepage displays all configured sections correctly.
+
+AC-02: All navigation links work.
+
+AC-03: All seven reference brands have dedicated landing pages.
+
+AC-04: Product cards display correct information.
+
+AC-05: Product categories work correctly.
+
+AC-06: Search returns relevant results.
+
+AC-07: Multiple product filters work together.
+
+AC-08: Sorting works correctly.
+
+AC-09: Product detail pages display available product information.
+
+AC-10: Shade selection works for products with shade variants.
+
+AC-11: External purchase links open the correct destination.
+
+AC-12: Wishlist functionality works if included in the release.
+
+AC-13: Admin can add, edit and archive products.
+
+AC-14: Admin can manage brands and categories.
+
+AC-15: Product images load correctly.
+
+AC-16: Website is responsive across mobile, tablet and desktop.
+
+AC-17: All major pages include appropriate SEO metadata.
+
+AC-18: Unauthorised users cannot access restricted admin functionality.
+
+AC-19: Empty states and error states display appropriately.
+
+AC-20: Product information is checked for accuracy before publication.
+
+24. EDGE CASES AND ERROR HANDLING
+
+The website must handle:
+
+Products without images.
+Products without prices.
+Discontinued products.
+Unavailable shades.
+Broken retailer URLs.
+Empty search results.
+Brands without products.
+Incomplete product information.
+Empty wishlists.
+Network interruptions.
+Unsupported image uploads.
+Duplicate products.
+Invalid admin submissions.
+
+Display appropriate fallback messages and do not present missing information as verified data.
+
+25. PROJECT TIMELINE
+
+Proposed development timeline: Eight weeks.
+
+WEEK 1: Research, planning and requirement finalisation.
+
+WEEK 2: UI/UX design, wireframes and visual identity.
+
+WEEK 3: Frontend homepage, navigation and brand pages.
+
+WEEK 4: Catalogue, product grids, categories, search and filters.
+
+WEEK 5: Backend, database and admin dashboard.
+
+WEEK 6: Product detail pages, shades, wishlist and external links.
+
+WEEK 7: Testing, responsiveness, accessibility, SEO and performance optimisation.
+
+WEEK 8: Content upload, deployment, final review and launch.
+
+The schedule is indicative and depends on team size, content readiness and technical complexity.
+
+26. RISKS AND CONSIDERATIONS
+
+RISK: Incorrect product information.
+
+SOLUTION: Verify products using official brand sources.
+
+RISK: Copyrighted brand photography.
+
+SOLUTION: Obtain appropriate licences or use authorised imagery.
+
+RISK: Different regional prices.
+
+SOLUTION: Clearly identify market and currency.
+
+RISK: Broken purchase links.
+
+SOLUTION: Implement periodic URL validation.
+
+RISK: Inconsistent photography.
+
+SOLUTION: Establish image standards.
+
+RISK: Large product catalogue.
+
+SOLUTION: Use pagination, caching and image optimisation.
+
+RISK: Incorrect shade representation.
+
+SOLUTION: Use verified shade data and appropriate images.
+
+RISK: Unauthorised admin access.
+
+SOLUTION: Implement secure authentication and role-based permissions.
+
+LEGAL CONSIDERATION:
+
+The website must have an independent brand identity. All referenced brand names, trademarks, logos, product images and marketing materials belong to their respective owners. Do not reproduce proprietary designs, logos or copyrighted campaign images without appropriate permission.
+
+27. FINAL PRODUCT REQUIREMENTS AND DESIGN DECISIONS
+
+The following decisions define the initial product direction.
+
+PROJECT TYPE: Luxury multi-brand makeup catalogue.
+
+PRIMARY MARKET: India.
+
+DEFAULT CURRENCY: INR.
+
+INITIAL BRANDS: CHANEL, KIKO MILANO, Charlotte Tilbury, Fenty Beauty, Kylie Cosmetics, Dior Beauty and TOM FORD.
+
+DESIGN STYLE: Luxury editorial minimalism.
+
+COLOUR PALETTE: Ivory, champagne, taupe, dusty rose, soft black and white.
+
+TYPOGRAPHY: Cormorant Garamond or Playfair Display with Inter or Manrope.
+
+HOMEPAGE: Editorial hero, category cards, featured brands, new arrivals, bestsellers and collections.
+
+CATALOGUE: Responsive four-to-five-column desktop grid and two-column mobile grid.
+
+PRODUCT PAGES: Product gallery, descriptions, pricing, shade selectors, ingredients and purchase links.
+
+NAVIGATION: Home, Shop, Brands, Face, Eyes, Lips, New In and Collections.
+
+PURCHASE MODEL: External retailer redirection for the initial launch.
+
+ADMIN PANEL: Required.
+
+DATABASE: Structured product, brand, category, shade and collection management.
+
+DIRECT CHECKOUT: Future phase.
+
+VIRTUAL TRY-ON: Future phase.
+
+28. FINAL PRODUCT VISION
+
+The final product should become a visually sophisticated, multi-brand makeup discovery platform that brings luxury beauty presentation and practical catalogue functionality together.
+
+The website must feel premium from the first screen.
+
+Users should be able to discover products effortlessly, explore international brands, compare makeup options, understand product details and find their preferred shades.
+
+The experience should be built around:
+
+BEAUTY — Premium imagery and sophisticated presentation.
+DISCOVERY — Intuitive navigation and organised catalogues.
+DIVERSITY — Inclusive shade and product representation.
+INFORMATION — Detailed and accurate product data.
+EXPERIENCE — Responsive and enjoyable browsing.
+SCALABILITY — A flexible architecture for future brands and features.
+
+FINAL DEVELOPMENT DIRECTION:
+
+Build an independent luxury beauty catalogue inspired by CHANEL, KIKO MILANO, Charlotte Tilbury, Fenty Beauty, Kylie Cosmetics, Dior Beauty and TOM FORD.
+
+Prioritise the homepage, brand directory, product catalogue, product detail pages and admin dashboard.
+
+The final website must combine editorial luxury with practical product discovery, delivering a cohesive, elegant and professional beauty experience.
+
+END OF PRODUCT REQUIREMENTS DOCUMENT.
